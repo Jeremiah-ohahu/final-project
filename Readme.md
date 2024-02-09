@@ -1,5 +1,5 @@
 
-   <h1>Shoplex e-commerce system</h1>
+   <h1>Discoverize ecommerce fashion system</h1>
    <br />
    <h2>Overview</h2>
    <br />
